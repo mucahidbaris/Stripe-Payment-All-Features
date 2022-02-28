@@ -1,0 +1,6 @@
+{
+    "require": {
+        "stripe/stripe-php": "^7.114",
+        "dcblogdev/pdo-wrapper": "^2.0.1"
+    }
+}
